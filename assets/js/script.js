@@ -63,6 +63,7 @@ function handleAddTask(event){
         revert: "invalid",
         connectToSortable: "#todo-cards, #in-progress-cards, #done-cards"
     });
+    $('.task-delete-button').on('click', handleDeleteTask)
     taskList.push(task);
     localStorage.setItem("tasks", JSON.stringify(taskList));
 }
