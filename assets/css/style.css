@@ -14,3 +14,11 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+
+.todo-card {
+  z-index: 1;
+}
+
+#todo-cards, #in-progress-cards, #done-cards {
+  height: 100%;
+}
