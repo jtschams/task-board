@@ -47,7 +47,7 @@ https://fontawesome.com/ \
 v5.8.1
 
 Google Fonts: \
-https://developers.google.com/fonts \
+https://developers.google.com/fonts
 
 For Reset CSS: \
 http://meyerweb.com/eric/tools/css/reset/ \
